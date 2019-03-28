@@ -2,7 +2,6 @@
 VB6 fast application launcher
 
 ![Windows 2000 screenshot](https://github.com/dotcomboom/Launchdeck/blob/master/screenshot_w2k.png?raw=true)
-![Mac screenshot](https://github.com/dotcomboom/Launchdeck/blob/master/screenshot_mac.png?raw=true)
 
 ## What it can do
 - Stay in the system tray like a good boy until you open it
