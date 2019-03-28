@@ -1,0 +1,7 @@
+frmMain = 0, 416, 998, 624, Z, 0, 312, 499, 468, C
+frmCfg = 0, 208, 998, 416, I, 0, 0, 998, 208, C
+SpecialFolders = 499, 312, 998, 468, 
+Sh = 499, 156, 998, 312, 
+FileFromPath = 274, 444, 773, 600, C
+Search = 0, 468, 499, 624, 
+impStartMenuItems = 0, 0, 808, 436, 
